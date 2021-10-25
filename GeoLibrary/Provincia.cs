@@ -8,7 +8,7 @@ namespace GeoLibrary
 {
     public class Provincia : Entity
     {
-        public List<Comune> Comuni { get; set; }
+        public IEnumerable<Comune> Comuni { get; set; }
         public string Targa { get; set; }
 
     }

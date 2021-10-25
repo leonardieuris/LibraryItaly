@@ -8,6 +8,6 @@ namespace GeoLibrary
 {
     public class Regione : Entity
     {
-        public List<Provincia> Provincia {get;set;}
+        public IEnumerable<Provincia> Provincia {get;set;}
     }
 }

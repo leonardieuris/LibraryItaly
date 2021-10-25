@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryItaly", "LibraryItal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLibrary", "GeoLibrary\GeoLibrary.csproj", "{32639B84-23C3-4B86-BBDC-B5A32F538D19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProgram", "MyProgram\MyProgram.csproj", "{CD30C69A-630D-4E85-A971-4F71F06EBF41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32639B84-23C3-4B86-BBDC-B5A32F538D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32639B84-23C3-4B86-BBDC-B5A32F538D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32639B84-23C3-4B86-BBDC-B5A32F538D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD30C69A-630D-4E85-A971-4F71F06EBF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD30C69A-630D-4E85-A971-4F71F06EBF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD30C69A-630D-4E85-A971-4F71F06EBF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD30C69A-630D-4E85-A971-4F71F06EBF41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
